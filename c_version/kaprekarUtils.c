@@ -19,7 +19,6 @@
  * article for more information.</p>
  *
  * @param n
- * @return <code>true</code> if <code>n</code> is a Kaprekar Number, 
  * @return <code>true</code> if <code>n</code> is a Kaprekar Number,
  * <code>false</code> otherwise.
  */
