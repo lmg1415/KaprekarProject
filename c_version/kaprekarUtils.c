@@ -11,7 +11,7 @@
  *
  * For example, 45 is a Kaprekar number, because
  *   45<sup>2</sup> = 2025
- * and 
+ * and
  *   20 + 25 = 45.
  *
  * <p>See Wikipedia's
@@ -25,7 +25,7 @@
 int isKaprekar(int n) {
 
   if(n < 1) {
-    return false;
+    return 0;
   }
 
   int i;
